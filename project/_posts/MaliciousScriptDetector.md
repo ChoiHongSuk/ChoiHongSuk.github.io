@@ -2,7 +2,7 @@
 layout: post
 title: Malicious Script Detector
 subtitle: MaliciousScriptDetector-Description
-gh-repo: ChoiHongSuk/choihongsuk.github.io
+gh-repo: ChoiHongSuk/ChoiHongSuk.github.io
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/cat-taesik-wide.jpg
 #tags: [Website, Blog, GitHub, Guide, How to, Seokho Son, Open source]

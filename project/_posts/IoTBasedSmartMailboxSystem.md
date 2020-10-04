@@ -2,7 +2,7 @@
 layout: post
 title: IoT Based Smart Mailbox System
 subtitle: IoT Based Smart Mailbox System-Description
-gh-repo: ChoiHongSuk/choihongsuk.github.io
+gh-repo: ChoiHongSuk/ChoiHongSuk.github.io
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/path.jpg
 #tags: [Cloud-Barista, CB-Tumblebug, Multi-cloud, seokho son, open source]
