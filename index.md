@@ -2,7 +2,7 @@
 layout: page
 title: Embedded Developer
 subtitle: My Own Free Development Space
-cover-img: /assets/img/hongsuk_BG.jpg
+cover-img: /assets/img/hongSuk_BG.jpg
 ---
 
 <br/>
